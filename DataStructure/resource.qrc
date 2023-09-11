@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/login/password.txt</file>
+        <file>resource/login/username.txt</file>
+    </qresource>
+</RCC>
